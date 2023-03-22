@@ -1,2 +1,2 @@
-# Ecoomerce-store
-Ecoomerce store using Html, css, javascript
+# Ecomerce-store
+Ecomerce store using Html, css, javascript
